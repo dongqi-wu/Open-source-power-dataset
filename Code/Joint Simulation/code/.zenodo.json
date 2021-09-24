@@ -1,0 +1,17 @@
+{
+    "title": "Multi-Timescale Power System Dataset",
+    "description": "",
+    "subject": "Power Systems, Dynamic Simulation, Multi-Timescale",
+    "date": "18/08/2021 21:26:00",
+    "publisher": "Texas A&M Univerisity, University of Southern California",
+    "contactPoint": "le.xie@tamu.edu",
+    "creator": "Dongqi Wu, Xiangtian Zheng, Tong Huang, Loc Trinh, Nan Xu, Sivaranjani Seetharaman, Le Xie and Yan Liu",
+    "format": ".csv",
+    "type": "open-source power system dataset for machine learning",
+    "contributor": "Dongqi Wu, Xiangtian Zheng, Tong Huang, Loc Trinh, Nan Xu, Sivaranjani Seetharaman, Le Xie and Yan Liu",
+    "identifier": "TBD",
+    "source": "TBD",
+    "language": "Python",
+    "relation": "TBD",
+    "rights": "TBD"
+}
